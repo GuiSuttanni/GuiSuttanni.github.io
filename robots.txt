@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://guisuttanni.github.io
+Sitemap: https://guisuttanni.github.io/sitemap.xml
